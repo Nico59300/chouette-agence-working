@@ -700,10 +700,8 @@ p {
 }
 
 .social {
-    width: 48px;
-    height: 48px;
-    max-width: 400px;
-    margin: auto auto auto auto;
+    
+    margin: 10px;
 }
 
 h2 {
