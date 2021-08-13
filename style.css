@@ -705,8 +705,10 @@ p {
 }
 
 a.social {
+    display: inline-block;
     min-width: 48px;
     min-height: 48px;
+    margin-bottom: 8px;
 }
 
 h2 {
