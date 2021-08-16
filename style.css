@@ -1039,6 +1039,7 @@ h4 {
 
     .bg-banniere {
         background-image: url(img/la-chouette-agence-banniere-mobile.jpg);
+        background-size: cover;
     }
 }
 
